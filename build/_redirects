@@ -1,0 +1,6 @@
+# Handle client-side routing
+/*    /index.html   200
+
+# Serve static files with correct MIME types
+/service-worker.js    /service-worker.js   200
+/manifest.json    /manifest.json   200
